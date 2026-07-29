@@ -12,7 +12,7 @@ The optimal mouse pointer size to view/use these cursors at is size 7 for large 
 # Features
 * Rapid realtime view WYSIWYG (What You See Is What You Get) cursor scheme preview panel - view all 17 animated cursors at once at their native size and full frame rate of up to 60 fps
 * Install: Install the current cursor scheme onto your computer with it's predefined name
-* Install 2: Install the current cursor scheme on your computer with a custom name of your choosing
+* Install 2: Install the current cursor scheme onto your computer with a custom name of your choosing
 * Set as Arrow: Try out the current cursor as your "Normal Select/Arrow" cursor
 * Set as Link:  Try out the current cursor as your "Link Select/Hand" cursor
 * Redo and Undo: Redo and undo changes made by the "Set as Arrow/Link" options
