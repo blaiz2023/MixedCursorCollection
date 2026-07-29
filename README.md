@@ -51,8 +51,18 @@ Download <a href="src/mixedcursorcollection.exe">mixedcursorcollection.exe</a> o
 # Images
 <img src="images/mixedcursorcollection-screenshot2.jpg">
 App and Archive content licenses<br><br><br>
+
 <img src="images/mixedcursorcollection-screenshot3.jpg">
+Default animated red cursor scheme<br><br><br>
+
 <img src="images/mixedcursorcollection-screenshot4.jpg">
+Modern animated rainbow cursor scheme in a dark tint with sparkle effect<br><br><br>
+
 <img src="images/mixedcursorcollection-screenshot5.jpg">
+Custom color animated cursor scheme with two custom colors applied - off-lime and purple<br><br><br>
+
 <img src="images/mixedcursorcollection-screenshot6.jpg">
+Extracting files from the archive folder to a temporary folder<br><br><br>
+
 <img src="images/mixedcursorcollection-screenshot7.jpg">
+A green cursor scheme installed onto the computer using the "Install 2" option with a custom name of "My Scheme" ready for use
