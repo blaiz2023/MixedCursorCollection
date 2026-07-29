@@ -50,7 +50,7 @@ Download <a href="src/mixedcursorcollection.exe">mixedcursorcollection.exe</a> o
 
 # Images
 <img src="images/mixedcursorcollection-screenshot2.jpg">
-App and Archive content licenses<br>
+App and Archive content licenses<br><br><br>
 <img src="images/mixedcursorcollection-screenshot3.jpg">
 <img src="images/mixedcursorcollection-screenshot4.jpg">
 <img src="images/mixedcursorcollection-screenshot5.jpg">
