@@ -1,7 +1,7 @@
 # MixedCursorCollection
 771,000 animated and static cursor schemes and cursors in red, green, blue, yellow, aqua, orange, purple, pink, white, grey, black, brown, rainbow, and custom color.
 
-<img src="images/mixedursorcollection-screenshot.jpg">
+<img src="images/mixedcursorcollection-screenshot.jpg">
 
 This interactive archive contains a large number of multi-resolution (128 x 128 and 64 x 64) animated and static cursors that have been specially encoded using algorithmic techniques to pack ~771,000+ cursors / files and ~1.7 Tb (~118 Gb when the PNG format option is employed) of data into an ultra-compact app of ~2.2 Mb.
 
@@ -49,9 +49,9 @@ The optimal mouse pointer size to view/use these cursors at is size 7 for large 
 Download <a href="src/mixedcursorcollection.exe">mixedcursorcollection.exe</a> or from the "<a href="bin/">bin</a>" or "<a href="src/">src</a>" folders above - for Microsoft Windows, and Linux/MacOS via Wine.
 
 # Images
-<img src="images/mixedursorcollection-screenshot2.jpg">
-<img src="images/mixedursorcollection-screenshot3.jpg">
-<img src="images/mixedursorcollection-screenshot4.jpg">
-<img src="images/mixedursorcollection-screenshot5.jpg">
-<img src="images/mixedursorcollection-screenshot6.jpg">
-<img src="images/mixedursorcollection-screenshot7.jpg">
+<img src="images/mixedcursorcollection-screenshot2.jpg">
+<img src="images/mixedcursorcollection-screenshot3.jpg">
+<img src="images/mixedcursorcollection-screenshot4.jpg">
+<img src="images/mixedcursorcollection-screenshot5.jpg">
+<img src="images/mixedcursorcollection-screenshot6.jpg">
+<img src="images/mixedcursorcollection-screenshot7.jpg">
